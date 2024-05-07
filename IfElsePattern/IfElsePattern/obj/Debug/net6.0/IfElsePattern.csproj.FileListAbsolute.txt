@@ -1,0 +1,14 @@
+C:\GIT\DesignPatterns\IfElsePattern\IfElsePattern\bin\Debug\net6.0\IfElsePattern.exe
+C:\GIT\DesignPatterns\IfElsePattern\IfElsePattern\bin\Debug\net6.0\IfElsePattern.deps.json
+C:\GIT\DesignPatterns\IfElsePattern\IfElsePattern\bin\Debug\net6.0\IfElsePattern.runtimeconfig.json
+C:\GIT\DesignPatterns\IfElsePattern\IfElsePattern\bin\Debug\net6.0\IfElsePattern.dll
+C:\GIT\DesignPatterns\IfElsePattern\IfElsePattern\bin\Debug\net6.0\IfElsePattern.pdb
+C:\GIT\DesignPatterns\IfElsePattern\IfElsePattern\obj\Debug\net6.0\IfElsePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\DesignPatterns\IfElsePattern\IfElsePattern\obj\Debug\net6.0\IfElsePattern.AssemblyInfoInputs.cache
+C:\GIT\DesignPatterns\IfElsePattern\IfElsePattern\obj\Debug\net6.0\IfElsePattern.AssemblyInfo.cs
+C:\GIT\DesignPatterns\IfElsePattern\IfElsePattern\obj\Debug\net6.0\IfElsePattern.csproj.CoreCompileInputs.cache
+C:\GIT\DesignPatterns\IfElsePattern\IfElsePattern\obj\Debug\net6.0\IfElsePattern.dll
+C:\GIT\DesignPatterns\IfElsePattern\IfElsePattern\obj\Debug\net6.0\refint\IfElsePattern.dll
+C:\GIT\DesignPatterns\IfElsePattern\IfElsePattern\obj\Debug\net6.0\IfElsePattern.pdb
+C:\GIT\DesignPatterns\IfElsePattern\IfElsePattern\obj\Debug\net6.0\IfElsePattern.genruntimeconfig.cache
+C:\GIT\DesignPatterns\IfElsePattern\IfElsePattern\obj\Debug\net6.0\ref\IfElsePattern.dll
